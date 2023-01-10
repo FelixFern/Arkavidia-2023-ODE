@@ -3,3 +3,4 @@ test.csv
 train_hourly.csv
 train.csv
 .DS_Store
+catboost_info/
